@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalCoin</string>
+    <string name="spinnerTitle">Select title</string>
+</resources>
